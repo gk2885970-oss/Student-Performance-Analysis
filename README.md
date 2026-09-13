@@ -1,4 +1,5 @@
 # Student Performance Analysis
+A Python-based student performance analytics project using Pandas, Matplotlib and Seaborn.
 
 ## 1. Objective
 
