@@ -126,7 +126,7 @@ The following analyses were performed:
 ### 7.1 Overall Subject Performance
 
 The average scores of Math, Reading and Writing were calculated to compare performance across subjects.
-![Subject-wise Average Performance](.jetro/subject_average.png)
+
 ### 7.2 Gender-wise Analysis
 
 Student performance was compared between male and female students using the average scores of Math, Reading and Writing.
@@ -153,7 +153,6 @@ These analyses were used to identify patterns and associations in student perfor
 
 
 
-
 ## 8. Data Visualization
 
 Data visualization was used to understand the results more clearly through graphs and charts.
@@ -164,48 +163,67 @@ The following visualizations were created:
 
 A bar chart was created to compare the average scores of Math, Reading and Writing.
 
+![Subject-wise Average Performance](.jetro/subject_average.png)
+
 ### 8.2 Test Preparation Analysis
 
 A bar chart was used to compare the average performance of students who completed the test preparation course with those who did not.
 
+![Test Preparation-wise Performance](.jetro/test_preparation.png)
+
 ### 8.3 Gender-wise Performance
 
 A bar chart was created to compare the average scores of male and female students.
+![Gender-wise Performance](.jetro/gender_performance.png)
 
 ### 8.4 Lunch-wise Performance
 
 A bar chart was used to compare student performance based on lunch type.
 
+![Lunch-wise Performance](.jetro/lunch_performance.png)
+
 ### 8.5 Parental Education Analysis
 
 A bar chart was created to compare average scores across different parental education levels.
+
+![Parental Education-wise Performance](.jetro/parent_education.png)
 
 ### 8.6 Race/Ethnicity Analysis
 
 A bar chart was used to compare the average scores across different race/ethnicity groups.
 
+![Race/Ethnicity-wise Performance](.jetro/race_performance.png)
+
 ### 8.7 Correlation Heatmap
 
 A correlation heatmap was created to understand the relationship between Math, Reading and Writing scores.
 
+![Correlation Heatmap](.jetro/correlation_heatmap.png)
 ### 8.8 Performance Category Distribution
 
 A bar chart was created to show the number of students in each performance category.
 
 Visualization makes it easier to identify patterns and relationships that may not be obvious from numerical values alone.
 
+![Performance Category Distribution](.jetro/performance_category.png)
+
 ### 8.9 Race/Ethnicity Boxplot
 
 A boxplot was created to compare the distribution of average scores across different race/ethnicity groups.
+
+![Race/Ethnicity vs Average Score](.jetro/race_boxplot.png)
 
 ### 8.10 Math vs Reading Scatter Plot
 
 A scatter plot was created to visualize the relationship between Math and Reading scores.
 
+![Math vs Reading Scatter Plot](.jetro/math_reading_scatter.png)
+
 ### 8.11 Math Score Histogram
 
 A histogram was created to understand the distribution of Math scores among the students.
 
+![Math Score Distribution](.jetro/math_histogram.png)
 
 ## 9. Key Findings
 
