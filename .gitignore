@@ -1,0 +1,3 @@
+.jetro/daemon/
+__pycache__/
+.DS_Store
