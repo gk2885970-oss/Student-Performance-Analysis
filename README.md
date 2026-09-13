@@ -126,7 +126,7 @@ The following analyses were performed:
 ### 7.1 Overall Subject Performance
 
 The average scores of Math, Reading and Writing were calculated to compare performance across subjects.
-
+![Subject-wise Average Performance](.jetro/subject_average.png)
 ### 7.2 Gender-wise Analysis
 
 Student performance was compared between male and female students using the average scores of Math, Reading and Writing.
