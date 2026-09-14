@@ -170,7 +170,7 @@ A bar chart was created to compare the average scores of Math, Reading and Writi
 
 A bar chart was used to compare the average performance of students who completed the test preparation course with those who did not.
 
-![Test Preparation-wise Performance](.jetro/test_preparation.png)
+![Test Preparation-wise Performance](test_preparation.png)
 
 ### 8.3 Gender-wise Performance
 
