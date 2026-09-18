@@ -127,6 +127,7 @@ The following analyses were performed:
 ### 7.1 Overall Subject Performance
 
 The average scores of Math, Reading and Writing were calculated to compare performance across subjects.
+![Subject Average](subject_average.png)
 
 ### 7.2 Gender-wise Analysis
 
@@ -164,40 +165,46 @@ The following visualizations were created:
 
 A bar chart was created to compare the average scores of Math, Reading and Writing.
 
-
+![Subject Average](subject_average.png)
 
 ### 8.2 Test Preparation Analysis
 
 A bar chart was used to compare the average performance of students who completed the test preparation course with those who did not.
+![Test Preparation](test_preparation.png)
 
 
 
 ### 8.3 Gender-wise Performance
 
 A bar chart was created to compare the average scores of male and female students.
+![Gender Performance](gender_performance.png)
 
 
 ### 8.4 Lunch-wise Performance
 
 A bar chart was used to compare student performance based on lunch type.
+![Lunch Performance](lunch_performance.png)
 
 
 
 ### 8.5 Parental Education Analysis
 
 A bar chart was created to compare average scores across different parental education levels.
+![Parent Education](parent_education.png)
 
 
 
 ### 8.6 Race/Ethnicity Analysis
 
 A bar chart was used to compare the average scores across different race/ethnicity groups.
+![Race Performance](race_performance.png)
 
 
 
 ### 8.7 Correlation Heatmap
 
 A correlation heatmap was created to understand the relationship between Math, Reading and Writing scores.
+![Correlation Heatmap](correlation_heatmap.png)
 
 
 ### 8.8 Performance Category Distribution
@@ -206,23 +213,27 @@ A bar chart was created to show the number of students in each performance categ
 
 Visualization makes it easier to identify patterns and relationships that may not be obvious from numerical values alone.
 
+![Performance Category](performance_category.png)
 
 
 ### 8.9 Race/Ethnicity Boxplot
 
 A boxplot was created to compare the distribution of average scores across different race/ethnicity groups.
 
+![Race Boxplot](race_boxplot.png)
 
 
 ### 8.10 Math vs Reading Scatter Plot
 
 A scatter plot was created to visualize the relationship between Math and Reading scores.
 
+![Math Reading Scatter](math_reading_scatter.png)
 
 
 ### 8.11 Math Score Histogram
 
 A histogram was created to understand the distribution of Math scores among the students.
+![Math Histogram](math_histogram.png)
 
 
 
