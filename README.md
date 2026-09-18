@@ -127,7 +127,7 @@ The following analyses were performed:
 ### 7.1 Overall Subject Performance
 
 The average scores of Math, Reading and Writing were calculated to compare performance across subjects.
-![Subject Average](subject_average.png)
+
 
 ### 7.2 Gender-wise Analysis
 
