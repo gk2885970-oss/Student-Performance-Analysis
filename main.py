@@ -3,6 +3,7 @@ from src.feature_engineering import create_features
 from src.student import Student
 from src.eda import perform_eda
 from src.visualization import create_visualizations
+from src.cutoff_analysis import analyze_cutoffs
 
 def main():
     print("===== STUDENT PERFORMANCE ANALYSIS =====\n")
@@ -21,7 +22,7 @@ def main():
 
     # 4. EDA
     perform_eda(df)
-
+    analyze_cutoffs(df)
     # 5. Visualizations
     create_visualizations(df)
 
