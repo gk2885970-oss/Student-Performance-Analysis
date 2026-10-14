@@ -1,0 +1,24 @@
+
+===== Cut-off and Lunch-Type Analysis =====
+
+Average score by lunch type:
+  free/reduced  average = 62.20   students = 355
+  standard      average = 70.84   students = 645
+  Gap (standard - free/reduced) = 8.64 points
+
+Students below the pass mark of 40 (Fail): 30 of 1000
+  free/reduced: 24 of 355 students (6.8%)
+  standard:     6 of 645 students (0.9%)
+  Share of all Fail students with free/reduced lunch: 24 of 30 (80%)
+  Share of all students with free/reduced lunch:      355 of 1000 (35.5%)
+
+Cut-off sensitivity (students labelled Fail = average score below the cut-off):
+  cut-off |  Fail |  of which free/reduced
+       35 |    18 |                     15
+       40 |    30 |                     24
+       45 |    54 |                     40
+       50 |   103 |                     61
+
+Students within 2 points of the pass mark (38 <= average < 42): 17
+  just below 40 (labelled Fail): 10
+  40 or above (labelled Pass):   7
